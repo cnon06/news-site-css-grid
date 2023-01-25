@@ -525,13 +525,6 @@ color: var(--primary-color);
 {
   display: grid;
   grid-template-rows: 1fr 3fr;
-
-  /* flex-direction: column; */
   
 }
 
-/* #main .article-section .sidebar .card
-{
- height: 100%;
-  
-} */

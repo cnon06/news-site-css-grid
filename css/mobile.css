@@ -88,8 +88,15 @@ gap: 1.2rem;
 
 #main .article-section
 {
-  display: grid;
+  /* display: grid; */
   grid-template-columns: 1fr;
   gap: 5px;
+  
+}
+
+#main .article-section .sidebar
+{
+  /* display: grid; */
+  grid-template-rows: 1fr;
   
 }
